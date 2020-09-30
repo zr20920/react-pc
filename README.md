@@ -7,13 +7,10 @@
 3. ui 框架使用 ant.design [官方文档](https://ant.design/index-cn)
 4. 安装 yarn 用来代替 npm
 5. 在 git 上面拉取代码之前，要在命令行运行 "git config --global core.autocrlf false" 命令
-<<<<<<< HEAD
 6. 从 git 上面拉取到代码下来以后，使用 yarn 命令安装项目所需模块
 7. yarn start 启动本地代码
-=======
 6. 从 git 上面拉取到代码下来以后，使用 yarn 命令安装项目所需模块 （npm i下载依赖）
 7. yarn start 启动本地代码 （也可以使用npm run start直接运行）
->>>>>>> 9616eefc76af07eeb26945e5987f0e288af28659
 8. yarn build:stage 打包测试环境
 9. yarn build:prod 打包生产环境
 10. yarn format 统一美化格式化所有代码
