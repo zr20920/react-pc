@@ -1,8 +1,5 @@
-<<<<<<< HEAD
-=======
 #### 该项目为PC端教育网站，欢迎各位小码哥探讨学习。
 
->>>>>>> 9616eefc76af07eeb26945e5987f0e288af28659
 #### 项目技术栈描述
 
 1. 项目核心技术使用 react hooks+redux+typescript+react-router-dom 完成开发
